@@ -58,7 +58,7 @@
     
 <h3><li align="left">How to reach me? </li></h3>
 <p align="left">
-💼 <a href="https://www.linkedin.com/in/aditya-gaur">LinkedIn</a><br>
+💼 <a href="https://www.linkedin.com/in/aditya-gaur-1332b7273/">LinkedIn</a><br>
 ✉️ Email: adityagaur.home@gmail.com
 </p>
 <h3><li align="left">Github Stats: </li></h3>
