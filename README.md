@@ -53,6 +53,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/xdityagr/OctaveMusic">Octave Music</a> - Powerful music player, Coming soon ...</td>
+            <td><a href="https://github.com/xdityagr/ConfigX">ConfigX</a> - a flexible, robust, and easy-to-use settings manager built around the concept of keypaths, Coming Soon!</td>
         </tr>
     </table>
     
