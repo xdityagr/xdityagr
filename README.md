@@ -55,6 +55,9 @@
             <td><a href="https://github.com/xdityagr/OctaveMusic">Octave Music</a> - Powerful music player, Coming soon ...</td>
             <td><a href="https://github.com/xdityagr/ConfigX">ConfigX</a> - a flexible, robust, and easy-to-use settings manager built around the concept of keypaths, Coming Soon!</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/xdityagr/Fusion">Fusion </a>- A programming language that aims to blends Python, C++'s, Rust's, and Go's.</td>
+        </tr>
     </table>
     
 <h3><li align="left">How to reach me? </li></h3>
