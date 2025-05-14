@@ -57,7 +57,8 @@
         </tr>
         <tr>
             <td><a href="https://github.com/xdityagr/Fusion">Fusion </a>- A programming language that aims to blends Python, C++'s, Rust's, and Go's.</td>
-        </tr>
+            <td><a href="https://github.com/xdityagr/DCAUD-Discord-Voice-Detection">DCAUD Client </a>- A Node.js/Executable Utility that can detect voice in real-time using AI on discord voice channels, etc. </td>
+        </tr>        
     </table>
     
 <h3><li align="left">How to reach me? </li></h3>
