@@ -60,6 +60,7 @@
             <td><a href="https://github.com/xdityagr/DCAUD-Discord-Voice-Detection">DCAUD Client </a>- A Node.js/Executable Utility that can detect voice in real-time using AI on discord voice channels, etc.</td></tr>
         <tr>
             <td><a href="https://github.com/xdityagr/ProjectTrupti">Project Trupti (तृप्ति) </a>- A multilingual end-to-end AI-powered irrigation planning assistant that helps farmers save water and improve crop yields through personalized weather-driven irrigation planning via calls and WhatsApp.
+            </td><td><a href="https://github.com/xdityagr/SHIELD">SHIELD</a>- SHIELD (System for Halting Illegal Exploitation and Ensuring Lasting Defense) is an AI and IoT-powered system that combines facial recognition, iris scanning, and RFID tracking to combat human trafficking in real time.
             </td>
         </tr>        
     </table>
