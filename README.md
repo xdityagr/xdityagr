@@ -57,10 +57,10 @@
         </tr>
         <tr>
             <td><a href="https://github.com/xdityagr/Fusion">Fusion </a>- A programming language that aims to blends Python, C++'s, Rust's, and Go's.</td>
-            <td><a href="https://github.com/xdityagr/DCAUD-Discord-Voice-Detection">DCAUD Client </a>- A Node.js/Executable Utility that can detect voice in real-time using AI on discord voice channels, etc. </td>
+            <td><a href="https://github.com/xdityagr/DCAUD-Discord-Voice-Detection">DCAUD Client </a>- A Node.js/Executable Utility that can detect voice in real-time using AI on discord voice channels, etc.</td></tr>
         <tr>
-            <td><a href="https://github.com/xdityagr/ProjectTrupti">Project Trupti (तृप्ति) </a>- A multilingual end-to-end AI-powered irrigation planning assistant that helps farmers save water and improve crop yields through personalized weather-driven irrigation planning via calls and WhatsApp.</td>
-  
+            <td><a href="https://github.com/xdityagr/ProjectTrupti">Project Trupti (तृप्ति) </a>- A multilingual end-to-end AI-powered irrigation planning assistant that helps farmers save water and improve crop yields through personalized weather-driven irrigation planning via calls and WhatsApp.
+            </td>
         </tr>        
     </table>
     
