@@ -1,7 +1,7 @@
-<div align="center" style="background-image: url('https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif'); background-size: cover; background-position: center; padding: 20px;">
+<div align="center" style="background-size: cover; background-position: center; padding: 20px;">
     <p align="center">
         <a href="">
-            <img src="Hello.gif"/>
+            <img src="INTROGIF.gif"/>
         </a>
     </p>
     <h2 align="left"><b>𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙨𝙥𝙖𝙘𝙚, 𝙛𝙪𝙡𝙡 𝙤𝙛 𝙙𝙞𝙛𝙛𝙚𝙧𝙚𝙣𝙩 𝙗𝙪𝙨𝙩𝙡𝙞𝙣𝙜 𝙞𝙙𝙚𝙖𝙨 & 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨!
