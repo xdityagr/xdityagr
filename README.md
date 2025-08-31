@@ -44,20 +44,23 @@
 <h3><li align="left">Some of my Open Source Projects :  </li></h3>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/xdityagr/Project-Snippify">Snippify</a> - Snippet management tool</td>
-            <td><a href="https://github.com/xdityagr/Project-DiscoverQuotesDaily">DiscoverQuotesDaily</a> - Bot for quote & Image generation</td>
+            <td><a href="https://github.com/xdityagr/Project-Snippify">Snippify</a> - Code Snippet management tool for the community</td>
+            <td><a href="https://github.com/xdityagr/Project-DiscoverQuotesDaily">DiscoverQuotesDaily</a> - Powerful Algorithm baseed bot for quote & Image generation & posting on social media</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/xdityagr/QCFX-Python">QCFX</a> - Dynamic Background Blurring for PyQt Applications</td>
-            <td><a href="https://github.com/xdityagr/Project-AirDex">Air Dex</a> - Weather dashboard for AQI & Temperature</td>
+            <td><a href="https://github.com/xdityagr/QCFX-Python">QCFX</a> - Window Effects & Dynamic Background Blurring for PyQt Framework in Python</td>
+            <td><a href="https://github.com/xdityagr/Project-AirDex">Air Dex</a> - Elegant Weather dashboard for AQI & Temperature</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/xdityagr/OctaveMusic">Octave Music</a> - Powerful music player, Coming soon ...</td>
-            <td><a href="https://github.com/xdityagr/ConfigX">ConfigX</a> - a flexible, robust, and easy-to-use settings manager built around the concept of keypaths, Coming Soon!</td>
+            <td><a href="https://github.com/xdityagr/OctaveMusic">Octave Music</a> - Elegant & highly customisable music player, For the coders, by a coder.</td>
+            <td><a href="https://github.com/xdityagr/ConfigX">ConfigX</a> - a flexible, robust, and easy-to-use settings manager built around the concept of keypaths, A better SQL</td>
         </tr>
         <tr>
             <td><a href="https://github.com/xdityagr/Fusion">Fusion </a>- A programming language that aims to blends Python, C++'s, Rust's, and Go's.</td>
             <td><a href="https://github.com/xdityagr/DCAUD-Discord-Voice-Detection">DCAUD Client </a>- A Node.js/Executable Utility that can detect voice in real-time using AI on discord voice channels, etc. </td>
+        <tr>
+            <td><a href="https://github.com/xdityagr/ProjectTrupti">Project Trupti (तृप्ति) </a>- A multilingual end-to-end AI-powered irrigation planning assistant that helps farmers save water and improve crop yields through personalized weather-driven irrigation planning via calls and WhatsApp.</td>
+  
         </tr>        
     </table>
     
